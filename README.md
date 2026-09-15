@@ -4,7 +4,7 @@
 - 🌱 I’m learning **Information Security**
 - 📝 I might write an articles on [https://zenn.dev/zeroyonn](https://zenn.dev/zeroyonn)
 
-## Certifications
+- 2026/08: Security Camp 2026 Vocational Class of C(Threat Analysis)
 - 2024/04: Registered Information Security Specialist Examination - Passed
 - 2023/10: Applied Information Technology Engineer Examination
 
